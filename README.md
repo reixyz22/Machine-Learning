@@ -1,4 +1,4 @@
-# Machine Learning for Everybody by Kylie Ying - Course Notebook
+# Machine Learning for Everybody by Kylie Ying - Course Notebook https://www.youtube.com/watch?v=i_LwzRVP7bg
 
 ## Overview
 This repository contains the Jupyter notebook used to follow along with the online tutorial course "Machine Learning for Everybody" by Kylie Ying. The course offers a comprehensive introduction to machine learning using Python, covering essential libraries such as Numpy, Pandas, TensorFlow, and Matplotlib.
